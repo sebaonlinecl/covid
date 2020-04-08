@@ -1,0 +1,24 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm prune"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hotnode": "0.0.8",
+    "body-parser": "~1.10.2",
+    "cookie-parser": "~1.3.3",
+    "debug": "~2.1.1",
+    "express-handlebars": "latest",
+    "lodash": "latest",
+    "morgan": "~1.5.1",
+    "stylus": "latest",
+    "js-yaml": "latest",
+    "html-minifier": "latest"
+  }
+}
