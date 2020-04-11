@@ -31,7 +31,7 @@ app.engine('.hbs', exphb({
     partialsDir: __dirname + '/views/partials'
 }));
 
-//app.use(favicon(__dirname +  '/public/favicon.ico'));
+app.use(favicon(__dirname +  '/public/favicon.ico'));
 
 app.use('/', home);
 app.use('/users', users);
