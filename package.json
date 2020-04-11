@@ -23,7 +23,7 @@
     "http": "0.0.1-security",
     "js-yaml": "latest",
     "lodash": "latest",
-    "morgan": "~1.5.1",
+    "morgan": "~1.9.1",
     "request": "^2.88.2",
     "save": "^2.4.0",
     "serve-favicon": "^2.5.0",
