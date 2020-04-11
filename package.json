@@ -23,7 +23,8 @@
     "lodash": "latest",
     "morgan": "~1.5.1",
     "serve-favicon": "^2.5.0",
-    "stylus": "latest"
+    "stylus": "latest",
+    "unirest": "^0.6.0"
   },
   "devDependencies": {
     "bower": "^1.8.8",
